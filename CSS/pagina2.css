@@ -1,0 +1,221 @@
+.Cajamenor{
+    width: 550px;
+    height:  fit-content;
+    border-radius: 90px ;
+    padding: 0%;
+    text-align: center;
+    margin: 1rem auto; /*centrar un div horizontalmente con auto y para que especifique cuanta distancia a de tomar*/ 
+    /*outline: auto; *//*es un bloque lo cual el margen se ajusta a los elementos que lo contienen */
+    /*display: flex;*/
+   
+    background-color: greenyellow;
+    
+}
+#Caja9{
+    width: 550px;
+    height: 275px;
+    border: 2px solid;
+    border-radius: 1.0rem;
+    padding: 0%;
+    text-align: center;
+    margin: 1rem auto; /*centrar un div horizontalmente con auto y para que especifique cuanta distancia a de tomar*/ 
+    outline: auto; /*es un bloque lo cual el margen se ajusta a los elementos que lo contienen */
+    /* display: flex;*/
+    background-color:  greenyellow;
+}
+li{ /*listas*/
+    list-style-type: none; /* eliminar los puntos*/
+}
+button{
+    width: 500px;
+    height: 40px;
+    border-radius: 14px;
+    font-size: 20px;  
+    padding: 3px;
+    margin: 3px; /* para separar los botones verticalmente en un mismo espacion de la division de botones ya que convertimos los botones a bloques con display*/ 
+    outline: auto; /*para que se acople al elemento */ /*se mostrara con un border especificado*/ 
+    display: block; /* quiero que mis botones se comporten como bloques y no como elementosxd se podria decir*/
+    
+}
+body{
+    background-image: url(https://i.pinimg.com/474x/98/47/f7/9847f797e9e9d11b95aa6642b009e480.jpg);
+}
+#CajadelosBotones1{
+    
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -386px;*/ /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+
+#CajadelosBotones2{
+    height: fit-content;
+    /*display: block;
+    margin-top: 80px; 
+    margin-left: -386px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+    /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+
+#CajadelosBotones3{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones4{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+    /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones5{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones6{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones7{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+    
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+#CajadelosBotones8{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones9{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+    /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones10{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones11{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones12{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones13{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+    /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones14{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones15{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+    outline: auto; /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#CajadelosBotones16{
+    height: fit-content;
+    /*margin-top: 80px;*/ 
+    /*margin-left: -376px; /*lado izquierdo cuando se usa el negativo */ 
+    padding: 1rem; /*tanto ancho y largo del borde para que marque una distancia y este centrado asi se puede mostrar bien distribuido
+    el texto al centro ya que se muestran la misma medida */
+     /*para que los botones esten dentro y no sobresalgan del bloque 
+    que tuve que indicar que sea un bloque, con display*/
+}
+#pregunta{
+    
+    height: fit-content;
+    border: 2px;
+    text-align: center;
+    margin: 1rem auto;
+   
+}
+.opcion2{
+    height: fit-content;
+}
+
+
+.correcta{
+    background-color: green;
+    color: white;
+}
+
+.incorrecta{
+     background-color: red;
+     color: white;
+}
+
+.CajadelosBotones1{
+    border: 1px solid blue;
+    height: 258px;
+}
